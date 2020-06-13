@@ -167,4 +167,4 @@ int main(int argc, char **argv)
     return 0;
 }
 
-// g++ -m32 -Wall -o 1.out 1.cpp -L"C:\MinGW\lib" -lglu32 -lglut32 -lopengl32 -lstdc++
+// g++ -m32 -Wall -o main.out main.cpp -L"C:\MinGW\lib" -lglu32 -lglut32 -lopengl32 -lstdc++
